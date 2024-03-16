@@ -15,7 +15,7 @@
         android:id="@+id/tvIcon"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16dp"
+        android:textSize="16sp"
         android:paddingStart="20dp"
         />
 
@@ -23,7 +23,7 @@
         android:id="@+id/tvRating"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="12dp"
+        android:textSize="12sp"
         android:paddingStart="20dp"
         />
 </LinearLayout>
